@@ -1,5 +1,4 @@
-# WE MOVED BOYS!!!!
-go to https://codeberg.org/authenyo/authens-site to get the newest redesign!!!
+
 
 
 # authen-neocities
